@@ -1,2 +1,2 @@
 # C-Homework
-All assignments and classwork from my UCSC 'C Programming' classes
+Assignments from my UCSC 'C Programming' class, and at-home exercises in the C language.
